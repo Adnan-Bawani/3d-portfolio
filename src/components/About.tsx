@@ -6,11 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          I'm Adnan Bawani, a Computer Science (AI &amp; ML) student at the University of Mumbai and an AI-driven Full-Stack Web Developer. I build production-ready web applications powered by Large Language Models, AI automation, and modern full-stack technologies. My expertise includes React.js, Next.js, Node.js, machine learning, RAG pipelines, and LLM integrations using Anthropic Claude and OpenAI-compatible APIs.
         </p>
       </div>
     </div>

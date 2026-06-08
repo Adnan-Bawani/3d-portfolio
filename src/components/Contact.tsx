@@ -11,27 +11,29 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/akashrmalhotra/"
+                href="https://linkedin.com/in/adnan-bawani"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — akashrmalhotra
+                LinkedIn — adnan-bawani
               </a>
             </p>
             <h4>Education</h4>
             <p>
-              PGPWE (MBA), Indian Institute of Management, Lucknow — 2021–2023
+              B.E Computer Science With (AI&ML), University of Mumbai — 2023–2027
             </p>
+            <h4>Mail me at</h4>
             <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
+              <a href="mailto:intern.adnan5@gmail.com" data-cursor="disable">
+                intern.adnan5@gmail.com
+              </a>
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/akashrmalhotra"
+              href="https://github.com/Adnan-Bawani"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -40,7 +42,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/akashrmalhotra/"
+              href="https://linkedin.com/in/adnan-bawani"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -49,16 +51,7 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="https://www.youtube.com/@Leftbraincoder"
-              target="_blank"
-              rel="noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              YouTube <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/leftbraincoder/"
+              href="https://instagram.com/adnan.bawani"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -66,13 +59,20 @@ const Contact = () => {
             >
               Instagram <MdArrowOutward />
             </a>
+            <a
+              href="mailto:intern.adnan5@gmail.com"
+              data-cursor="disable"
+              className="contact-social"
+            >
+              Email <MdArrowOutward />
+            </a>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Akash Malhotra</span>
+              Designed and Developed <br /> by <span>Adnan Bawani</span>
             </h2>
             <h5>
-              <MdCopyright /> 2026
+              <MdCopyright /> 2026-27
             </h5>
           </div>
         </div>

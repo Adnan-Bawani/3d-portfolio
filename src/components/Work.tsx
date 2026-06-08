@@ -5,32 +5,25 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    title: "AI Idea Validator",
+    category: "AI-Powered Startup Validation Platform",
+    tools: "Anthropic Claude API, AI Analysis, Market Research Automation",
+    image: "/images/ai-validator.png",
+    link: "https://aivalidatorr.vercel.app",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
+    title: "Stone Oven",
+    category: "Immersive Restaurant Platform",
+    tools: "Next.js, TypeScript, Animations, SEO Optimization, Responsive Design",
+    image: "/images/stone-oven.png",
+    link: "https://v0-stone-oven-boisar-immersive-webs.vercel.app",
+  },
+  {
+    title: "Student Health Analytics",
+    category: "Machine Learning — Burnout Risk Prediction",
+    tools: "Python, Scikit-learn, Random Forest, XGBoost, Streamlit",
     image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
-  },
-  {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
-  },
-  {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
-    image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    link: "https://github.com/Adnan-Bawani/Student-Health-Analytics",
   },
 ];
 
